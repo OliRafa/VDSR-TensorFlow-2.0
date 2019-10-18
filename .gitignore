@@ -195,3 +195,4 @@ pip-selfcheck.json
 .vscode/extensions.json
 .VDSR-TF/
 .VDSR-TF/*
+.pylintrc
